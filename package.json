@@ -1,0 +1,10 @@
+{
+  "name": "openfeature-harness-es",
+  "version": "1.0.0",
+  "description": "OpenFeature provider for Harness in ES6",
+  "main": "index.js",
+  "repository": "github.com/codefriar/openfeature-harness-es",
+  "author": "Kevin Poorman",
+  "license": "MIT",
+  "private": false
+}
